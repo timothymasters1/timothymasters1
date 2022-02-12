@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Automation, Cloud Hosting, Python, CI/CD
 - 🌱 I’m currently learning about CI/CD
 - 💞️ I’m looking to collaborate on DevOps tools
-- 📫 How to reach me @ timothy.masters@gmail.com
+- 📫 How to reach me @ masters.timothy@gmail.com
 
 <!---
 timothymasters1/timothymasters1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
