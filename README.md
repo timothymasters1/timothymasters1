@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothymasters1
 - 👀 I’m interested in DevOps, Automation, Cloud Hosting, Python, CI/CD
-- 🌱 I’m currently learning everhthing
+- 🌱 I’m currently learning about CI/CD
 - 💞️ I’m looking to collaborate on DevOps tools
 - 📫 How to reach me @ timothy.masters@gmail.com
 
